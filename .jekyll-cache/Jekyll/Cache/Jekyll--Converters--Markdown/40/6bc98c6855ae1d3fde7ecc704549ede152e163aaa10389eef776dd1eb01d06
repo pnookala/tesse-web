@@ -1,0 +1,99 @@
+I"M<p>EPEXA is an NSF-supported R&amp;D project that will create a
+        production-quality, general-purpose, community-supported, open-source
+        software ecosystem that attacks the twin challenges of programmer
+        productivity and portable performance for advanced scientific
+        applications on modern high-performance computers. Of special interest
+        are irregular and sparse applications that are poorly served by current
+        programming and execution models.</p>
+
+<p>The project addresses central challenges from modern computational
+        science:</p>
+<ul>
+  <li>Advances in predictive, high-fidelity simulation are characterized by
+        increasingly irregular and dynamic computation (block sparse,
+        low-rank, mixed representations, etc.).</li>
+  <li>Ongoing technology trend in heterogeneous architectures with
+        dynamically changing performance, and the need to increase concurrency
+        at all scales.</li>
+</ul>
+
+<p>EPEXA builds upon prior work performed by the TESSE (Task-based
+        Environment for Scientific Simulation at Extreme Scale) project, and in
+        particular aims to complete the design and provide robust implementation
+        of TESSE’s main C++ API, the Template Task Graph (<a href="ttg/">TTG</a>) that provides a
+        powerful data-flow programming model. Specific project aims include:</p>
+
+<ul>
+  <li>To extend, complete, and harden the successful TESSE research
+        prototype providing its first production quality implementation using
+        a community-based, science-driven approach.</li>
+  <li>To grow and support the user community, associated applications, and
+        research use cases.</li>
+  <li>To create a community to design, maintain, support and to grow EPEXA
+        in the future.</li>
+  <li>To transform the scalability of key parts of new and existing
+        numerical simulation codes, including enabling the development of new
+        DSLs by utilizing the API of the EPEXA runtime, and by migration paths
+        for both applications and application programmers to follow.</li>
+</ul>
+
+<h3 id="our-community-and-their-driving-applications">Our community and their driving applications:</h3>
+
+<ul>
+  <li>
+    <p>Robert Harrison and Mahdi Javanmard</p>
+
+    <ul>
+      <li><a href="http://www.iacs.stonybrook.edu/">IACS</a>, <a href="http://www.stonybrook.edu/">Stony Brook University</a>
+        <ul>
+          <li>multiresolution numerical analysis (<a href="https://github.com/m-a-d-n-e-s-s/madness">MADNESS</a> with applications to chemistry, material science, nuclear physics, and others.</li>
+          <li>dynamic programming algorithms</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Edward Valeev</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  - [Department of Chemistry](http://www.chem.vt.edu/), [Virginia Tech](https://www.vt.edu/)
+  - block-sparse tensor algebra ([TiledArray](https://github.com/ValeevGroup/tiledarray)
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>George Bosilca and Thomas Herault</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  - [ICL](http://www.icl.utk.edu/), [The University of Tennessee, Knoxville](http://www.utk.edu/)
+  - parallel programming and runtime [PaRSEC](http://icl.utk.edu/parsec/)    
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Scott Thornton</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  - [Descartes Labs](https://www.descarteslabs.com/)
+  - geospatial AI
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Florian Bischoff</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  - [Humboldt University, Berlin](https://bit.ly/2RZG2q0)
+  - computational chemistry
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p><a href="https://www.math.colostate.edu/%7Ebangerth/">Wolfgang Bangerth</a></p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  - Department of mathematics, Colorado State University
+  - [deal.II](https://www.dealii.org) open-source finite-element engineering and physics
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<!--Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/).
+-->
+<!--
+You can use HTML elements in Markdown, such as the comment element, and they won't
+be affected by a markdown parser. However, if you create an HTML element in your
+markdown file, you cannot use markdown syntax within that element's contents.
+-->
+:ET
