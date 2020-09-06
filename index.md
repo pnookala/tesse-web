@@ -38,9 +38,9 @@ EPEXA builds upon prior work performed by the TESSE (Task-based
           DSLs by utilizing the API of the EPEXA runtime, and by migration paths
           for both applications and application programmers to follow.
 
-### Our community and their driving applications:
+### Our community and their driving applications: {#community}
 
-* Robert Harrison and Mahdi Javanmard
+* Robert Harrison
     - [IACS](http://www.iacs.stonybrook.edu/), [Stony Brook University](http://www.stonybrook.edu/)
     - multiresolution numerical analysis ([MADNESS](https://github.com/m-a-d-n-e-s-s/madness)) with applications to chemistry, material science, nuclear physics, and others.
     - dynamic programming algorithms
@@ -54,7 +54,7 @@ EPEXA builds upon prior work performed by the TESSE (Task-based
     - parallel programming and runtime ([PaRSEC](http://icl.utk.edu/parsec/))  
 
 * Scott Thornton 
-    - [Descartes Labs](https://www.descarteslabs.com/)
+    - [Gerber Technology](http://www.gerbertechnology.com)
     - geospatial AI
 
 * Florian Bischoff
@@ -62,11 +62,17 @@ EPEXA builds upon prior work performed by the TESSE (Task-based
     - computational chemistry
 
 * [Wolfgang Bangerth](https://www.math.colostate.edu/%7Ebangerth/)
-    - Department of mathematics, Colorado State University
+    - Department of Mathematics, Colorado State University
     - [deal.II](https://www.dealii.org) open-source finite-element engineering and physics
+
+* Mohammad Mahdi Javanmard
+    - [Facebook Research](https://research.fb.com/)
+
+* Poornima Nookala
+    - [IACS](http://www.iacs.stonybrook.edu/), [Stony Brook University](http://www.stonybrook.edu/)
         
       
-### EPEXA Software Ecosystem
+### EPEXA Software Ecosystem {#ecosystem}
 
 ![EPEXA Software Ecosystem (image)](images/epexa_software_ecosystem.jpg "EPEXA Software Ecosystem")
 
@@ -74,7 +80,7 @@ EPEXA builds upon prior work performed by the TESSE (Task-based
 
 NSF CSSI 2020 PI meeting [poster](https://figshare.com/articles/Poster_CSSI_EPEXA_2020_pdf/11796048)
 
-### Funding
+### Funding {#funding}
 
 The EPEXA project is supported by the National
                               Science Foundation under grants OAC-1931387 at

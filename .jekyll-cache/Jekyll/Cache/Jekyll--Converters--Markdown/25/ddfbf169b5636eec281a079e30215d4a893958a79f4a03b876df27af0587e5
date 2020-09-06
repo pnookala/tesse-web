@@ -1,4 +1,4 @@
-I"W<p>EPEXA is an NSF-supported R&amp;D project that will create a
+I"›<p>EPEXA is an NSF-supported R&amp;D project that will create a
         production-quality, general-purpose, community-supported, open-source
         software ecosystem that attacks the twin challenges of programmer
         productivity and portable performance for advanced scientific
@@ -37,10 +37,10 @@
         for both applications and application programmers to follow.</li>
 </ul>
 
-<h3 id="our-community-and-their-driving-applications">Our community and their driving applications:</h3>
+<h3 id="community">Our community and their driving applications:</h3>
 
 <ul>
-  <li>Robert Harrison and Mahdi Javanmard
+  <li>Robert Harrison
     <ul>
       <li><a href="http://www.iacs.stonybrook.edu/">IACS</a>, <a href="http://www.stonybrook.edu/">Stony Brook University</a></li>
       <li>multiresolution numerical analysis (<a href="https://github.com/m-a-d-n-e-s-s/madness">MADNESS</a>) with applications to chemistry, material science, nuclear physics, and others.</li>
@@ -61,7 +61,7 @@
   </li>
   <li>Scott Thornton
     <ul>
-      <li><a href="https://www.descarteslabs.com/">Descartes Labs</a></li>
+      <li><a href="http://www.gerbertechnology.com">Gerber Technology</a></li>
       <li>geospatial AI</li>
     </ul>
   </li>
@@ -73,13 +73,23 @@
   </li>
   <li><a href="https://www.math.colostate.edu/%7Ebangerth/">Wolfgang Bangerth</a>
     <ul>
-      <li>Department of mathematics, Colorado State University</li>
+      <li>Department of Mathematics, Colorado State University</li>
       <li><a href="https://www.dealii.org">deal.II</a> open-source finite-element engineering and physics</li>
+    </ul>
+  </li>
+  <li>Mohammad Mahdi Javanmard
+    <ul>
+      <li><a href="https://research.fb.com/">Facebook Research</a></li>
+    </ul>
+  </li>
+  <li>Poornima Nookala
+    <ul>
+      <li><a href="http://www.iacs.stonybrook.edu/">IACS</a>, <a href="http://www.stonybrook.edu/">Stony Brook University</a></li>
     </ul>
   </li>
 </ul>
 
-<h3 id="epexa-software-ecosystem">EPEXA Software Ecosystem</h3>
+<h3 id="ecosystem">EPEXA Software Ecosystem</h3>
 
 <p><img src="images/epexa_software_ecosystem.jpg" alt="EPEXA Software Ecosystem (image)" title="EPEXA Software Ecosystem" /></p>
 
@@ -93,6 +103,12 @@
                               Science Foundation under grants OAC-1931387 at
                               Stony Brook University, OAC1931347 at Virginia
                               Tech, and ACI-1450300 at the University of
+                              Tennesse, Knoxville.</p>
+
+<p>The TESSE project was supported by the National
+                              Science Foundation under grants ACI-1450344 at
+                              Stony Brook University, ACI-1450262 at Virginia
+                              Tech, and OAC-1931384 at the University of
                               Tennesse, Knoxville.</p>
 
 <!--Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/).
